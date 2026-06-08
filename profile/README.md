@@ -22,7 +22,7 @@ It's a set of smart contracts designed to capture on-chain user activity and tra
 
 By converting these interactions into verifiable on-chain signals, the system enables much more dynamic governance model where participation directly influences decision-making power.
 
-<img width="1320" height="696" alt="image" src="https://github.com/user-attachments/assets/78b86c38-dc0b-4e47-8599-0d570264539e" />
+<img width="1320" height="696" alt="image" src="https://github.com/user-attachments/assets/3478a6e1-0064-461b-a465-779ff30f1173" />
 
 ## Use Cases
 
