@@ -1,10 +1,8 @@
 <img width="1600" height="400" alt="Frame 4(5)" src="https://github.com/user-attachments/assets/b65da5fe-06e9-4fe3-9fb7-6cb620e4ec76" />
 
-# DAO Hook
+### 'DAO Hook" is the Uniswap V4 hook designed for next generation DAOs.
 
-**'DAO Hook" is the Uniswap V4 hook designed for next generation DAOs.** 
-
-It's a set of smart contracts designed to capture on-chain user activity and transform it into structured governance power. 
+**It represents a set of smart contracts designed to capture on-chain user activity and transform it into structured governance power. Scroll to see how it works and what use cases are.**
 
 ### How it works: 
 
