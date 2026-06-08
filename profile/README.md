@@ -1,4 +1,4 @@
-<img width="1600" height="400" alt="Frame 4(4)" src="https://github.com/user-attachments/assets/9cbac2cf-0fe2-4fe8-9f6c-f2e71e2699c0" />
+<img width="1600" height="400" alt="Frame 4(5)" src="https://github.com/user-attachments/assets/b65da5fe-06e9-4fe3-9fb7-6cb620e4ec76" />
 
 # DAO Hook
 
