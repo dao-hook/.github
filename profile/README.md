@@ -1,3 +1,4 @@
+<img width="1600" height="400" alt="Frame 4(4)" src="https://github.com/user-attachments/assets/9cbac2cf-0fe2-4fe8-9f6c-f2e71e2699c0" />
 
 # DAO Hook
 
@@ -21,7 +22,7 @@ It's a set of smart contracts designed to capture on-chain user activity and tra
 
 By converting these interactions into verifiable on-chain signals, the system enables much more dynamic governance model where participation directly influences decision-making power.
 
-<img width="1244" height="573" alt="image" src="https://github.com/user-attachments/assets/e5e314f7-c082-41c9-bc39-30e5af991851" />
+<img width="1320" height="696" alt="image" src="https://github.com/user-attachments/assets/78b86c38-dc0b-4e47-8599-0d570264539e" />
 
 ## Use Cases
 
